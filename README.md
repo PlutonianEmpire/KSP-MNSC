@@ -9,6 +9,8 @@ May or may not work with RSS.
 
 Changelog:
 
+1.2.0: Finally figured out how to remove the scatters causing trees to appear on the runway.
+
 1.1.0: Small tweak to reposition it for compatibility with Mirage Web Streaming.
 
 1.0.1: Patch.
